@@ -1,0 +1,7 @@
+{
+  "enablePullDownRefresh": true,
+  "navigationBarTitleText": "黑马超市",
+  "usingComponents": {
+    "good-list": "/components/good_list"
+  }
+}

@@ -1,0 +1,1 @@
+<view class="nr"><view class="title">{{''+detail.title+''}}</view><view class="data"><view>{{'发布时间：'+detail.fb_date+''}}</view><view>{{'浏览：'+detail.browse+''}}</view></view><view class="content">{{''+detail.content+''}}</view></view>

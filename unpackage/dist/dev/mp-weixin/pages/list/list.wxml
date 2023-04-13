@@ -1,0 +1,1 @@
+<view><view class="good_content"><view class="tit">热门商品</view><good-list vue-id="2e637200-1" goods="{{HotGoods}}" data-event-opts="{{[['^cheang',[['cheang']]]]}}" bind:cheang="__e" bind:__l="__l"></good-list><view hidden="{{!(showPrompt)}}" class="prompt">-------我也是有底线的-------</view></view></view>

@@ -1,0 +1,1 @@
+<view><view><good-list vue-id="1b6f9780-1" goods="{{good_list}}" data-event-opts="{{[['^cheang',[['cheang']]]]}}" bind:cheang="__e" bind:__l="__l"></good-list></view><view hidden="{{!(showPrompt)}}" class="prompt">-------我也是有底线的-------</view></view>
